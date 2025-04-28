@@ -16,7 +16,7 @@ This project demonstrates a simple autonomous robot that follows walls using pro
 
 wall_follower_robot/demo/world_maze2.mp4
 
-> 📹 Watch how the robot successfully follows walls and avoids obstacles in real-time!
+> 📹 Watch how the robot successfully follows walls in real-time!
 
 ## How to Run
 
