@@ -9,12 +9,12 @@ This project demonstrates a simple autonomous robot that follows walls using pro
   - `run.py`: Initializes the robot and launches the wall-follower controller.
 - **worlds/**
   - `world_maze.wbt`: Webots world file where the robot operates.
-- **media/**
-  - `demo.mp4`: Short demonstration video of the robot in action.
+- **demo/**
+  - `world_maze2.mp4`: Short demonstration video of the robot in action.
 
 ## Simulation Demo
 
-wall_follower_robot/demo/world_maze.mp4
+wall_follower_robot/demo/world_maze2.mp4
 
 > 📹 Watch how the robot successfully follows walls and avoids obstacles in real-time!
 
